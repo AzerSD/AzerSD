@@ -2,13 +2,13 @@ Hi there 👋
 
    - 🔭 I’m currently working on personal tasks.
 
-   - 🌱 I’m presently learning C.
+   - 🌱 I’m presently learning Flutter.
 
-   - 👯 I’m looking to collaborate on challenging projects as a junior C developer.
+   - 👯 I’m looking to collaborate on challenging projects as a junior flutter developer.
 
    - 🤔 I’m searching for any oportunity that helps me grow into a better computer programmer.
 
-   - 📫 How to reach me: LinkedIn
+   - 📫 How to reach me: 
 
 
 <!---
