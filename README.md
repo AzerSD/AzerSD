@@ -8,7 +8,7 @@ Hi there 👋
 
    - 🤔 I’m searching for any oportunity that helps me grow into a better computer programmer.
 
-   - 📫 How to reach me: 
+   - 📫 How to reach me: sioudazer8@gmail.com
 
 
 <!---
