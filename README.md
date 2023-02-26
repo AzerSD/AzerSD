@@ -16,7 +16,7 @@ I have a variety of interests:
 
 ... always learning something new 🤓
 
-   - ✨ Been creating bugs since 2018.
+   - ✨ Been creating bugs since 2019.
    - 🔭 I’m currently working on a Startup.
    - 🌱 I’m presently learning Kotlin and Figma.
    - 👯 I’m looking to collaborate on challenging projects.
@@ -68,6 +68,8 @@ I have a variety of interests:
 
 <div align="center">
 	
+[![GitHub Streak](https://streak-stats.demolab.com?user=AzerSD&theme=buefy-dark)](https://git.io/streak-stats)
+
 | [![azer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzerSD&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![azer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzerSD&layout=compact&hide_border=true&theme=jolly)](https://github.com/AzerSD?tab=repositories) |
 |:-:|:-:|
 	
