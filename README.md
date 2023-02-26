@@ -1,12 +1,10 @@
-[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](img/poster_galaxy.gif)](https://www.instagram.com/azer_sioudd/)
-
-## Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ### Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate 💜 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://www.42heilbronn.de/en/) ✨🧠.
+I'm an avid self-learner and passionate about IT. I'm currently a _cadet_ software engineering student at [42Heilbronn](https://www.42heilbronn.de/en/) ✨🧠.
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
+I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in the DevOps field.
 
 I have a variety of interests:
 
@@ -15,15 +13,28 @@ I have a variety of interests:
    * 🏋️‍♂️  Calisthenics
    * 📚  Books 
    * ♕   Chess
-   * 🐾  Animals
 
 ... always learning something new 🤓
 
-   - 🔭 I’m currently working on personal tasks.
-   - 🌱 I’m presently learning Flutter.
+   - 🔭 I’m currently working on a Startup.
+   - 🌱 I’m presently learning Kotlin and Figma.
    - 👯 I’m looking to collaborate on challenging projects.
-   - 🤔 I’m searching for any oportunity that helps me grow into a better computer programmer.
-   - 📫 How to reach me: sioudazer8@gmail.com
+   - 🤔 I’m searching for any oportunity that helps me grow into a better DevOps Engineer.
+   - 📫 How to reach me:
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+</div>
+
+###
 
 <p align="center">
 	<a href="mailto:sioudazer8@gmail.com">
@@ -55,3 +66,65 @@ I have a variety of interests:
 <h3 align="center">
 	Show some ❤️ by starring my repositories!
 </h3>
+
+###
+
+<p align="left">My name is Azer and I'm a Software Engineering Student at 42 Heilbronn.</p>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently getting my hands dirty with Cloud technologies and a lot of other stuff.</p>
+
+###
+
+<h2 align="left">Experienced with:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" width="63" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" width="63" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="63" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" width="63" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" width="63" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" width="63" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="63" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" width="63" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" width="63" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" width="63" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42" width="63" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" width="63" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" width="63" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" width="63" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" width="63" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42" width="63" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" width="63" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="42" width="63" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="63" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="42" width="63" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" width="63" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Currently Learning:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Stats&username=AzerSD" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=AzerSD" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AzerSD/AzerSD/blob/output/snake.svg" alt="Snake animation" />
+
