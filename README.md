@@ -106,3 +106,4 @@ I have a variety of interests:
 		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:sioudazer8@gmail.com" />
 	</a>
 </p>
+
