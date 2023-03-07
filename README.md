@@ -6,21 +6,21 @@ I'm an avid self-learner and passionate about IT. I'm currently a software engin
 
 I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in the DevOps field.
 
-I have a variety of interests:
+<!-- I have a variety of interests:
 
    * 🌎  Travelling
    * 👨  Personal Development
    * 🏋️‍♂️  Calisthenics
    * 📚  Books 
-   * ♕   Chess
-
-... always learning something new 🤓
+   * ♕   Chess -->
 
    - ✨ Been creating bugs since 2019.
    - 🔭 I’m currently working on a Startup.
    - 🌱 I’m presently learning Kotlin and Figma.
    - 👯 I’m looking to collaborate on challenging projects.
    - 🤔 I’m searching for any oportunity that helps me grow into a better DevOps Engineer.
+
+... always learning something new 🤓
 
 <h2 align="left">Experienced with:</h2>
 
