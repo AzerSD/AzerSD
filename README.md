@@ -70,7 +70,7 @@ I have experience in diverse programming languages and technologies. My current 
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=AzerSD&theme=buefy-dark)](https://git.io/streak-stats)
 
-| [![azer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzerSD&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![azer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzerSD&layout=compact&hide_border=true&theme=jolly)](https://github.com/AzerSD?tab=repositories) |
+| [![azer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzerSD&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AzerSD?tab=repositories) | [![azer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzerSD&layout=compact&hide_border=true&theme=jolly)](https://github.com/AzerSD?tab=repositories) |
 |:-:|:-:|
 	
 </div>
