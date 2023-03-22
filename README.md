@@ -16,7 +16,6 @@ I have experience in diverse programming languages and technologies. My current 
 
    - ✨ Been creating bugs since 2019.
    - 🔭 I’m currently working on a Startup.
-   - 🌱 I’m presently learning Kotlin and Figma.
    - 👯 I’m looking to collaborate on challenging projects.
    - 🤔 I’m searching for any oportunity that helps me grow into a better DevOps Engineer.
 
