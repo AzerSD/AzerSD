@@ -4,8 +4,6 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-### Thanks for visiting! 😄
-
 I'm an avid self-learner and passionate about IT. I'm currently a software engineering student at [42Heilbronn](https://www.42heilbronn.de/en/).
 
 I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in the DevOps field.
