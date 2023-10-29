@@ -6,7 +6,7 @@
 
 I'm an avid self-learner and passionate about IT. I'm currently a software engineering student at [42Heilbronn](https://www.42heilbronn.de/en/).
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in the DevOps field.
+I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in the Security field.
 
 <!-- I have a variety of interests:
 
@@ -17,9 +17,8 @@ I have experience in diverse programming languages and technologies. My current 
    * ♕   Chess -->
 
    - ✨ Been creating bugs since 2019.
-   - 🔭 I’m currently working on a Startup.
    - 👯 I’m looking to collaborate on challenging projects.
-   - 🤔 I’m searching for any oportunity that helps me grow into a better DevOps Engineer.
+   - 🤔 I’m searching for any oportunity that helps me grow into a better person.
 
 ... always learning something new 🤓
 
