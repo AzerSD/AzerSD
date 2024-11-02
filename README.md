@@ -4,7 +4,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-I'm an avid self-learner and passionate about IT. I recently graduated from [42HN](https://www.42heilbronn.de/en/) and currently pursuing a career in CyberSecurity
+I'm an avid self-learner and passionate about IT. I recently graduated from [42HN](https://www.42heilbronn.de/en/) and currently pursuing a career in CyberSecurity and BugBounty Hunting.
 
 <!-- I have a variety of interests:
 
