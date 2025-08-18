@@ -4,7 +4,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-I'm an avid self-learner and passionate about IT. I recently graduated from [42HN](https://www.42heilbronn.de/en/) and currently pursuing a career in CyberSecurity and BugBounty Hunting.
+I'm an avid self-learner and passionate about IT. I recently graduated from [42HN](https://www.42heilbronn.de/en/) and currently pursuing mastery at 42 (RNCP 7) in 'Network Information & Systems Architecture'
 
 <!-- I have a variety of interests:
 
@@ -16,7 +16,6 @@ I'm an avid self-learner and passionate about IT. I recently graduated from [42H
 
    - ✨ Been creating bugs since 2019.
    - 👯 I’m looking to collaborate on challenging projects.
-   - 🤔 I’m always searching for any oportunity that helps me grow in any aspect.
 
 ... always learning something new 🤓
 
