@@ -19,23 +19,27 @@ I'm an avid self-learner and passionate about IT. I recently graduated from [42H
 
 ... always learning something new 🤓
 
-<h2 align="left">Experienced with:</h2>
+<h2 align="left">Languages & Markups:</h2>
 
-###
+[![Languages & Markups](https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,bash,lua,zig,html,css,md,regex)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" width="63" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" width="63" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="63" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" width="63" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="63" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" width="63" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" width="63" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42" width="63" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="42" width="63" alt="vim logo"  />
-</div>
 
-###
+<h2 align="left">Tools & Platforms:</h2>
+
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,wordpress,vim,neovim,anaconda,arch,arduino,bitbucket,cmake,maven,github,githubactions,gitlab,gradle,grafana,gtk,nginx,obsidian,openstack,postman,qt,raspberrypi,wordpress,yarn)](https://skillicons.dev)
+
+
+<h2 align="left">Frameworks & Libraries:</h2>
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=vite,vitest,vue,vuetify,bootstrap,django,elasticsearch,fastapi,materialui,prisma,react,redux,tailwind,laravel,ansible)](https://skillicons.dev)
+
+<h2 align="left">DevOps & Cloud:</h2>
+
+[![DevOps & Cloud](https://skillicons.dev/icons?i=docker,gcp,jenkins,kubernetes,openshift,openstack,prometheus,terraform)](https://skillicons.dev)
+
+<h2 align="left">Data & Messaging:</h2>
+
+[![Data & Messaging](https://skillicons.dev/icons?i=firebase,kafka,mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 
 
 ###
